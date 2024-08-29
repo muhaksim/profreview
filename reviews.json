@@ -1,0 +1,126 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Ahmed Ali",
+        "subject": "Computer Science",
+        "stars": 4,
+        "feedback": "Dr. Ali is a great teacher with a deep understanding of algorithms. The lectures are engaging and well-organized."
+      },
+      {
+        "professor": "Dr. Muhammad Khan",
+        "subject": "Mathematics",
+        "stars": 5,
+        "feedback": "Dr. Khan makes complex concepts easy to understand and is always willing to help outside of class."
+      },
+      {
+        "professor": "Dr. Ibrahim Yusuf",
+        "subject": "Physics",
+        "stars": 3,
+        "feedback": "Dr. Yusuf is knowledgeable but sometimes his explanations can be a bit confusing."
+      },
+      {
+        "professor": "Dr. Omar Farooq",
+        "subject": "Chemistry",
+        "stars": 4,
+        "feedback": "Dr. Farooq's classes are well-structured and his experiments are interesting. However, the grading can be strict."
+      },
+      {
+        "professor": "Dr. Faisal Rahman",
+        "subject": "Biology",
+        "stars": 5,
+        "feedback": "Dr. Rahman is passionate about biology and makes the subject very engaging. His exams are fair and well-designed."
+      },
+      {
+        "professor": "Dr. Khalid Javed",
+        "subject": "Economics",
+        "stars": 2,
+        "feedback": "Dr. Javed's lectures are often disorganized and hard to follow. The subject matter is interesting but poorly delivered."
+      },
+      {
+        "professor": "Dr. Tariq Hussain",
+        "subject": "Engineering",
+        "stars": 4,
+        "feedback": "Dr. Hussain provides clear explanations and practical examples. The course is challenging but rewarding."
+      },
+      {
+        "professor": "Dr. Ali Raza",
+        "subject": "Statistics",
+        "stars": 3,
+        "feedback": "Dr. Raza is knowledgeable, but his lectures can be monotonous and lack interaction."
+      },
+      {
+        "professor": "Dr. Abdullah Qureshi",
+        "subject": "Control Systems",
+        "stars": 5,
+        "feedback": "Dr. Qureshi is excellent in teaching control systems. His hands-on approach makes complex concepts easier to grasp."
+      },
+      {
+        "professor": "Dr. Bilal Siddiqui",
+        "subject": "History",
+        "stars": 4,
+        "feedback": "Dr. Siddiqui's lectures are engaging and well-researched. He has a knack for bringing historical events to life."
+      },
+      {
+        "professor": "Dr. Zaid Ali",
+        "subject": "Electrical Engineering",
+        "stars": 3,
+        "feedback": "Dr. Ali has good knowledge but could improve in explaining practical applications of electrical theories."
+      },
+      {
+        "professor": "Dr. Hamza Noor",
+        "subject": "Astronomy",
+        "stars": 5,
+        "feedback": "Dr. Noor's enthusiasm for astronomy is contagious. The hands-on projects and night sky observations are fantastic."
+      },
+      {
+        "professor": "Dr. Sami Ahmed",
+        "subject": "Geology",
+        "stars": 4,
+        "feedback": "Dr. Ahmed is very knowledgeable about geology and uses real-world examples to make the material relatable."
+      },
+      {
+        "professor": "Dr. Imran Shah",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "feedback": "Dr. Shah's commitment to environmental issues is evident. The course is well-organized and informative."
+      },
+      {
+        "professor": "Dr. Asif Malik",
+        "subject": "Mechanical Engineering",
+        "stars": 5,
+        "feedback": "Dr. Malik excels in teaching mechanical engineering principles with practical, hands-on approaches and real-world applications."
+      },
+      {
+        "professor": "Dr. Anwar Rehman",
+        "subject": "Literature",
+        "stars": 3,
+        "feedback": "Dr. Rehman has a good knowledge of literature but the class could benefit from more structured discussions."
+      },
+      {
+        "professor": "Dr. Faisal Qazi",
+        "subject": "Business Management",
+        "stars": 4,
+        "feedback": "Dr. Qazi's practical approach to business management is valuable. The case studies and group projects are well-designed."
+      },
+      {
+        "professor": "Dr. Jamil Ahmed",
+        "subject": "Finance",
+        "stars": 3,
+        "feedback": "Dr. Ahmed covers a lot of material but the lectures can be overwhelming. More clarity in explanations would help."
+      },
+      {
+        "professor": "Dr. Rafiq Iqbal",
+        "subject": "Computer Engineering",
+        "stars": 4,
+        "feedback": "Dr. Iqbal's course is challenging but rewarding. His practical approach and real-world examples enhance learning."
+      },
+      {
+        "professor": "Dr. Yusuf Hassan",
+        "subject": "Civil Engineering",
+        "stars": 4,
+        "feedback": "Dr. Hassan is thorough and ensures students understand the fundamentals. His projects are challenging but highly educational."
+      }
+      
+    ]
+  }
+  
