@@ -43,7 +43,7 @@ export default function MainPage() {
       <header className="bg-[#de5d58] text-white py-4 px-6 flex items-center gap-4 shadow-md">
         <Avatar className="h-12 w-12">
           <AvatarImage src="/placeholder-user.jpg" alt="ChatGPT" />
-          <AvatarFallback><img src="bot.png" alt="Bot"/></AvatarFallback>
+          <AvatarFallback><img src="logo.png" alt="Logo"/></AvatarFallback>
         </Avatar>
         <div>
           <h2 className="text-xl font-bold">Profreview</h2>
